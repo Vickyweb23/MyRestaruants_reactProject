@@ -1,0 +1,12 @@
+ allcard1{
+    border: solid 2px red;
+    box-shadow: 2px 3px 12px orange,
+                 3px 4px 14px white;  
+display: flex !important;
+flex-wrap: wrap;
+align-items: center;
+ text-align: center;
+justify-content: center; 
+ flex-direction: column; 
+ max-width: 10rem;
+ }
